@@ -2,7 +2,7 @@
 
 <robot name="limo_mecanum" xmlns:xacro="http://ros.org/wiki/xacro">
 
-    <xacro:include filename="$(find my_robot_description)/urdf/limo/limo_utils.xacro" />
+    <xacro:include filename="$(find my_robot_description)/urdf/limo/limo_mecanum_utils.xacro" />
 
     <!-- Variables -->
     <xacro:property name="M_PI" value="3.14159"/>
