@@ -43,7 +43,9 @@ Pushing a ROS (Robot Operating System) repository from Ubuntu to GitHub requires
     ```gitignore
     devel/
     logs/
+    log/
     build/
+    install/
     bin/
     lib/
     msg_gen/
